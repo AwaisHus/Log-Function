@@ -1,2 +1,11 @@
 # Log-Function
-A PHP log function has been implemented to facilitate website administrators in tracking user activity, primarily for debugging purposes and the prevention of SQL injection attacks. This function conveys feedback through the admin panel, although only the log function code is disclosed here due to the project's sensitive nature. It captures data such as IP addresses, MAC addresses, and notes on the cause of issues for comprehensive monitoring.
+I've added a PHP log function to help our website administrators keep tabs on user actions. This primarily aids in debugging and guarding against SQL injection attacks. It's a handy tool that can be placed anywhere in the code where actions occur, such as when a user clicks a button or enters login information.
+
+This log function provides feedback through the admin panel, but I can only share the code for the function itself here due to confidentiality. Here's a summary of what it does:
+
+- Captures the user's IP address.
+- Grabs the user's MAC address.
+- Records the user's input.
+- It logs the time when the action took place.
+
+This simple addition enhances our website's security and helps us identify and address issues more efficiently.
