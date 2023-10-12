@@ -6,6 +6,6 @@ This log function provides feedback through the admin panel, but I can only shar
 - Captures the user's IP address.
 - Grabs the user's MAC address.
 - Records the user's input.
-- It logs the time when the action took place.
+- Logs the time when the action took place.
 
 This simple addition enhances our website's security and helps us identify and address issues more efficiently.
